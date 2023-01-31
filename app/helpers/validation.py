@@ -12,4 +12,5 @@ def validation(cpf, phone, response):
             "error": "Invalid format Phone, number must be max of 11 characteres and country code is optional"
         }
     return response
-
+def test():
+    pass
